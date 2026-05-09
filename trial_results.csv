@@ -1,0 +1,11 @@
+model,trial,seed,accuracy,val_acc,val_loss,f1
+TransferMatcherNet,1,42,0.9714,0.8571,0.507148,0.9744
+TransferMatcherNet,2,49,0.5714,0.2857,0.737748,0.7273
+TransferMatcherNet,3,56,1.0,1.0,0.009885,1.0
+TransferMatcherNet,4,63,1.0,1.0,0.052011,1.0
+TransferMatcherNet,5,70,1.0,1.0,0.018849,1.0
+NLPTransferMatcherNet,1,42,0.9983,1.0,0.000809,0.9474
+NLPTransferMatcherNet,2,49,0.9983,0.9917,0.061865,0.9474
+NLPTransferMatcherNet,3,56,0.9983,1.0,0.001092,0.9474
+NLPTransferMatcherNet,4,63,0.995,0.9833,0.152217,0.8571
+NLPTransferMatcherNet,5,70,0.9983,1.0,0.000718,0.9474
